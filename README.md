@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mizan-Al-Sabbih
+- 👋 Hi, I’m @ItzSwiftyBoy
 - 👀 I’m interested in Compiler, Programming Language and App Development.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
